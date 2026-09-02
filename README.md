@@ -9,7 +9,7 @@
 
 <p align="center">
   I'm a Data Analyst & Web Developer with <b>6+ years</b> of professional experience, specializing in
-  data analytics, database development, and full-stack web applications.
+  data analytics, database development, and reliable software applications.
 </p>
 
 <p align="center">
